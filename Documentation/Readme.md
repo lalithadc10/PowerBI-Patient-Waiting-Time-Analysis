@@ -12,19 +12,22 @@ I extended the original adjustable histogram challenge into a three-page interac
 
 ![Waiting Time Distribution](../Screenshots/wow_39_challenge.png)
 
+
  **[Watch LinkedIn Video Demonstration](https://lnkd.in/p/dDs5AcWy)**
 
 ### 2. Waiting Time Trends & Patterns
 
 **Business Question:** When do waiting times vary, and are certain days associated with longer waits?
 
-![Waiting Time Trends](../Screenshots/waiting_time_trends_patterns.png)
+![Waiting Time Trends & Patterns](../Screenshots/waiting_time_trends%26patterns.png)
+
 
  **[Watch LinkedIn Video Demonstration](https://lnkd.in/p/dgYqUnZd)**
 
 ### 3. Waiting Time Investigation
 
 
+![Waiting Time Investigation](../Screenshots/waiting_time_investigation.png)
 
 
 ##  My Key Learning
