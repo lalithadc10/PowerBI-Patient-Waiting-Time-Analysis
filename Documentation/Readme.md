@@ -10,7 +10,7 @@ I extended the original adjustable histogram challenge into a three-page interac
 
 **Business Question:** Do both clinic locations have similar waiting-time distributions despite having the same average?
 
-![Waiting Time Distribution](../Screenshots/wow_39_challenge.png)
+![Waiting Time Distribution](../Screenshots/wow_39 challenge.png)
 
 
  **[Watch LinkedIn Video Demonstration](https://lnkd.in/p/dDs5AcWy)**
@@ -19,7 +19,7 @@ I extended the original adjustable histogram challenge into a three-page interac
 
 **Business Question:** When do waiting times vary, and are certain days associated with longer waits?
 
-![Waiting Time Trends & Patterns](../Screenshots/waiting_time_trends%26patterns.png)
+![Waiting Time Trends & Patterns](../Screenshots/waiting_time_trends&patterns.png)
 
 
  **[Watch LinkedIn Video Demonstration](https://lnkd.in/p/dgYqUnZd)**
