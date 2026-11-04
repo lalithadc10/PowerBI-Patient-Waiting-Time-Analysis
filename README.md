@@ -78,7 +78,7 @@ When do patient waiting times change, and are certain days or periods associated
 
 Looking at waiting times over time helps identify patterns that a single average cannot reveal. Comparing workload and waiting-time trends also helps investigate whether higher-volume days coincide with longer waits.
 
-![Waiting Time Trends & Patterns](Screenshots/waiting_time_trends%26patterns.png)
+![Waiting Time Trends & Patterns](Screenshots/waiting_time_trends_patterns.png)
 ---
 
 ## 3. Waiting Time Investigation
