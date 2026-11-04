@@ -49,7 +49,7 @@ Are patients experiencing similar waiting times at Site A and Site B, even thoug
 
 The same average does not necessarily mean the same experience. Standard deviation and histograms help reveal patterns that averages alone cannot explain.
 
-![Waiting Time Distribution](../Screenshots/wow_39_challenge.png)
+![Waiting Time Distribution](Screenshots/wow_39_challenge.png)
 
 ---
 
@@ -78,8 +78,7 @@ When do patient waiting times change, and are certain days or periods associated
 
 Looking at waiting times over time helps identify patterns that a single average cannot reveal. Comparing workload and waiting-time trends also helps investigate whether higher-volume days coincide with longer waits.
 
-![Waiting Time Trends](../Screenshots/waiting_time_trends_patterns.png)
-
+![Waiting Time Trends & Patterns](Screenshots/waiting_time_trends%26patterns.png)
 ---
 
 ## 3. Waiting Time Investigation
@@ -111,8 +110,7 @@ Counts help identify how many cases need attention, while percentages help compa
 
 > **Note:** The 15-minute threshold is an assumed benchmark for this analysis, not a confirmed official clinic target.
 
-![Waiting Time Investigation](../Screenshots/waiting_time_investigation.png)
-
+![Waiting Time Investigation](Screenshots/waiting_time_investigation.png)
 ---
 
 #  Key Skills Developed
