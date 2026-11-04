@@ -19,7 +19,7 @@ I extended the original adjustable histogram challenge into a three-page interac
 
 **Business Question:** When do waiting times vary, and are certain days associated with longer waits?
 
-![Waiting Time Trends & Patterns](../Screenshots/waiting_time_trends&patterns.png)
+![Waiting Time Trends & Patterns](../Screenshots/waiting_time_trends_patterns.png)
 
 
  **[Watch LinkedIn Video Demonstration](https://lnkd.in/p/dgYqUnZd)**
